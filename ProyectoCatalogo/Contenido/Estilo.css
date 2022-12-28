@@ -1,0 +1,63 @@
+body {
+    background-image: url("https://i.imgur.com/8I5eyGa.jpg")
+}
+
+#centrar {
+    display: flex;
+    justify-content: center;
+}
+
+#centrar1 {
+    display: flex;
+    justify-content: center;
+}
+
+#img {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+}
+
+#filtro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+#fa {
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: -55px;
+}
+
+#favanzado {
+    position: absolute;
+    left: 70px;
+    top: 174px;
+    display: flex;
+    flex-direction: column;
+    width: 190px;
+}
+
+#contenedor {
+    position: relative;
+    top: 40px;
+}
+
+#botonAgregar {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    top: 50px;
+}
+
+#detalles {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+#filtros {
+    position: relative;
+}
